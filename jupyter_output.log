@@ -1,0 +1,65 @@
+nohup: ignoring input
+[I 2024-09-24 04:45:08.332 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-24 04:45:08.353 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-24 04:45:08.369 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-24 04:45:08.373 ServerApp] Writing Jupyter server cookie secret to /home/ec2-user/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2024-09-24 04:45:09.224 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-24 04:45:09.275 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-24 04:45:09.292 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-24 04:45:09.297 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-24 04:45:09.301 LabApp] JupyterLab extension loaded from /home/ec2-user/environment/jupyterlab-venv/lib64/python3.9/site-packages/jupyterlab
+[I 2024-09-24 04:45:09.301 LabApp] JupyterLab application directory is /home/ec2-user/environment/jupyterlab-venv/share/jupyter/lab
+[I 2024-09-24 04:45:09.302 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-24 04:45:09.324 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-24 04:45:09.326 ServerApp] Serving notebooks from local directory: /home/ec2-user/environment
+[I 2024-09-24 04:45:09.326 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-09-24 04:45:09.326 ServerApp] http://ip-10-0-1-181.ec2.internal:8888/lab?token=1f8d4069015102c38927679027a7d2b359cf06e60f427d1b
+[I 2024-09-24 04:45:09.326 ServerApp]     http://127.0.0.1:8888/lab?token=1f8d4069015102c38927679027a7d2b359cf06e60f427d1b
+[I 2024-09-24 04:45:09.326 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-09-24 04:45:09.341 ServerApp] No web browser found: Error('could not locate runnable browser').
+[C 2024-09-24 04:45:09.342 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/ec2-user/.local/share/jupyter/runtime/jpserver-2746-open.html
+    Or copy and paste one of these URLs:
+        http://ip-10-0-1-181.ec2.internal:8888/lab?token=1f8d4069015102c38927679027a7d2b359cf06e60f427d1b
+        http://127.0.0.1:8888/lab?token=1f8d4069015102c38927679027a7d2b359cf06e60f427d1b
+[I 2024-09-24 04:45:10.020 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-09-24 04:46:32.765 LabApp] Build is up to date
+[I 2024-09-24 04:46:36.445 ServerApp] Writing notebook-signing key to /home/ec2-user/.local/share/jupyter/notebook_secret
+[W 2024-09-24 04:46:36.449 ServerApp] Notebook C3_W2_Lab_1_Data_Lake_Solution.ipynb is not trusted
+[W 2024-09-24 04:46:38.025 ServerApp] Notebook C3_W2_Lab_1_Data_Lake.ipynb is not trusted
+[I 2024-09-24 04:46:38.818 ServerApp] Kernel started: bada345e-39ba-4ad8-990e-24cb236bc26c
+[I 2024-09-24 04:46:39.523 ServerApp] Kernel started: 784df700-408e-4ee9-a36f-43ed2b4e02ff
+[I 2024-09-24 04:46:40.473 ServerApp] Connecting to kernel bada345e-39ba-4ad8-990e-24cb236bc26c.
+[I 2024-09-24 04:46:41.002 ServerApp] Connecting to kernel bada345e-39ba-4ad8-990e-24cb236bc26c.
+[I 2024-09-24 04:46:41.504 ServerApp] Connecting to kernel 784df700-408e-4ee9-a36f-43ed2b4e02ff.
+[I 2024-09-24 04:46:42.032 ServerApp] Connecting to kernel 784df700-408e-4ee9-a36f-43ed2b4e02ff.
+[I 2024-09-24 04:46:42.557 ServerApp] Connecting to kernel 784df700-408e-4ee9-a36f-43ed2b4e02ff.
+[I 2024-09-24 04:48:38.038 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake_Solution.ipynb
+[I 2024-09-24 04:48:39.102 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 04:50:17.948 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 04:50:25.702 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake_Solution.ipynb
+[I 2024-09-24 04:52:19.509 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 04:54:20.546 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 04:56:21.646 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 04:56:55.167 ServerApp] Saving file at /terraform/assets/de-c3w2-reviews-transform-job.py
+[I 2024-09-24 05:17:53.118 ServerApp] Starting buffering for bada345e-39ba-4ad8-990e-24cb236bc26c:d82771a1-0d1f-43d5-b4b1-44f5f3c0dfd2
+[I 2024-09-24 05:17:53.139 ServerApp] Starting buffering for 784df700-408e-4ee9-a36f-43ed2b4e02ff:e05a676a-8d52-4cd4-b3b1-74247adafeba
+[I 2024-09-24 05:17:58.625 ServerApp] Connecting to kernel bada345e-39ba-4ad8-990e-24cb236bc26c.
+[I 2024-09-24 05:17:59.130 ServerApp] Connecting to kernel 784df700-408e-4ee9-a36f-43ed2b4e02ff.
+[I 2024-09-24 05:17:59.344 ServerApp] Starting buffering for bada345e-39ba-4ad8-990e-24cb236bc26c:cc51e713-cab4-434e-8b5d-8301be09b20d
+[I 2024-09-24 05:17:59.633 LabApp] Build is up to date
+[I 2024-09-24 05:18:00.222 ServerApp] Starting buffering for 784df700-408e-4ee9-a36f-43ed2b4e02ff:7ca9d610-7181-4b51-9e01-6f6f6e67af0e
+[I 2024-09-24 05:18:04.196 ServerApp] Connecting to kernel bada345e-39ba-4ad8-990e-24cb236bc26c.
+[I 2024-09-24 05:18:04.713 ServerApp] Connecting to kernel 784df700-408e-4ee9-a36f-43ed2b4e02ff.
+[I 2024-09-24 05:28:05.461 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 05:30:06.518 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 05:32:08.419 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 05:36:10.517 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 05:38:12.659 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 05:40:14.662 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 05:42:16.655 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 05:44:18.119 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 05:46:19.639 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
+[I 2024-09-24 05:48:21.657 ServerApp] Saving file at /C3_W2_Lab_1_Data_Lake.ipynb
